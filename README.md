@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasgreddy&label=Profile%20views&color=0e75b6&style=flat" alt="vasgreddy" /> </p>
 
-- 🌱 I’m currently learning **Angular**
-
-- ▶️ Interested to work with **MEAN Technologies**
+- ▶️ Interested to work with **JavaScript and Java Technologies**
 
 <h3 align="left">Mini Projects:</h3>
 
